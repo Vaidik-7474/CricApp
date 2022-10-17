@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       home: PCSplashScreen(),
-      debugShowCheckedModeBanner: false,qFRGR
+      debugShowCheckedModeBanner: false,
       scrollBehavior: SBehavior(),
     );
   }
